@@ -2,8 +2,8 @@ import React from 'react';
 import ProjectCard from '../components/ProjectCard';
 
 const projectList = [
-  { title: 'CineMate App', description: 'A movie app for streaming anywhere-anytime', link: 'https://www.figma.com/design/FhyhNpcSLcq0JvL6mLxrBv/Shaheena-Midterm-Movie-app?node-id=36-113&t=6xehpAdHwXwyAg0N-1' },
-  { title: 'SplitTrip App', description: 'A ride-share and cost-splitting app', link: 'https://www.figma.com/design/7BbZno4bMmA2QoDRVjGcvn/Split-Trip-Final?node-id=1-2&t=SJes0p1gFQdY2stu-1' },
+  { title: 'CineMate App', description: 'A movie app for streaming anywhere-anytime', link: 'https://www.figma.com/proto/FhyhNpcSLcq0JvL6mLxrBv/Shaheena-Midterm-Movie-app?page-id=36%3A113&node-id=43-218&p=f&viewport=-105%2C595%2C0.37&t=2QygOxNEpAkaaBCb-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=43%3A218&show-proto-sidebar=1' },
+  { title: 'SplitTrip App', description: '' },
 ];
 
 const Projects = () => {
